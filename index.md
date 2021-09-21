@@ -9,8 +9,6 @@ image:
 
 
 <div class="bod">
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="ishaq-kothari-7980831b5" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/ishaq-kothari-7980831b5?trk=profile-badge">Ishaq Kothari</a></div>
               
 <h3 class="small_title">Introduction</h3>
 
