@@ -1,3 +1,11 @@
+---
+layout: page
+title: Ishaq Kothari
+description: "Ishaq Kothari Website"
+tags: [Jekyll, theme, responsive, blog, template]
+image:
+  feature: pasindu-uthpala-hc8VRgDj4Ik-unsplash2.jpg
+---
 ## **Ishaq Kothari |** ikothari@oberlin.edu | Tel: 585-694-1601
 
 **Education:**
