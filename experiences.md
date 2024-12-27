@@ -3,9 +3,6 @@ layout: page
 title: Experience
 description: "Details of my professional experiences"
 tags: [Jekyll, theme, responsive, blog, template]
-image:
-  feature: your-image.jpg
----
 
 # Professional Experience
 
